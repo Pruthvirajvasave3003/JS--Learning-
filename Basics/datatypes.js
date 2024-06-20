@@ -22,7 +22,7 @@
 //array
 
 let name = "Tiger"
-let aga = 9
+let age = 9
 let nickName;
 let meal = null
 let nonVeg = true
@@ -33,3 +33,4 @@ console.log(typeof undefined) //undefined
 console.log(typeof nickName)
 console.log(sym1)
 console.log(typeof sym1)
+console.log(typeof(age))
