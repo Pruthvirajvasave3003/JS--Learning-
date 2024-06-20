@@ -31,3 +31,5 @@ const sym1 = Symbol("Tiger");
 console.log(typeof null) // object
 console.log(typeof undefined) //undefined
 console.log(typeof nickName)
+console.log(sym1)
+console.log(typeof sym1)
